@@ -5,6 +5,7 @@ This repository contains Feedforward Neural Network design for FPGA implementati
 We uses two approaches in designing this hardware:
 1. **Paralel Computation**. This approach boosts computation speed at expense of area of the chip.
 2. **Hardware Sharing**. This approach reduces the area required in a chip at expense of speed.
+
 By implementing those two opposite approaces in the right condition, we can maximize both speed and area.
 
 
